@@ -10,4 +10,11 @@ public class MainUtils {
 
         // code
     }
+
+    public static void newMethod1(){
+
+        // code
+
+    }
+
 }
